@@ -43,7 +43,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/F2E-1-todolist/docs/',
+    assetsPublicPath: '/F2E-2-filter/dist/',
 
     /**
      * Source Maps
